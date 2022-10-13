@@ -37,8 +37,7 @@
 <body>
     <div>
         <h2>Welcome To GFG</h2>
-		<h2>hi code testing</h2>
-		<h2>Edited by Paras</h2>
+		<h1>Let's Test</h1>
         <div id="grandparent">GrandParent
             <div id="parent">Parent
                 <div id="child">Child</div>
